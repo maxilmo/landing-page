@@ -91,6 +91,16 @@ h1 {
   color: #f9faf8;
 }
 
+.sec-two {
+  display: flex;
+  flex-direction: column;
+}
+
+.img-d {
+  display: flex;
+  flex-direction: row;
+}
+
 .img-one {
   width: 300px;
   height: 300px;
