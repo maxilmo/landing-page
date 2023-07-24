@@ -55,7 +55,14 @@ h1 {
   margin: 0;
 }
 
-.catd {
+.para-one {
+  color: #fff;
+  text-decoration: none;
+  color: #e5e7eb;
+  font-size: 18px;
+}
+
+.cat-one {
   display: flex;
   justify-content: flex-end;
   align-items: center;
@@ -74,6 +81,12 @@ h1 {
   gap: 16px;
 }
 
+.btn-a {
+  width: 300px;
+  display: flex;
+}
+
 .btn-one {
   background-color: #3882f6;
+  color: #f9faf8;
 }
