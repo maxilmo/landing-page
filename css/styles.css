@@ -96,6 +96,15 @@ h1 {
   flex-direction: column;
 }
 
+.head-two {
+  font-size: 26px;
+  color: #1f2937;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+}
+
 .img-d {
   display: flex;
   flex-direction: row;
