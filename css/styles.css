@@ -99,6 +99,7 @@ h1 {
 .head-two {
   font-size: 26px;
   color: #1f2937;
+  font-weight: bold;
   width: 100%;
   display: flex;
   justify-content: center;
@@ -128,4 +129,22 @@ h1 {
 .img-four {
   width: 300px;
   height: 300px;
+}
+
+.sec-three {
+  background-color: #e5e7eb;
+  display: flex;
+}
+
+.para-three {
+  padding: 16px;
+  box-sizing: border-box;
+  color: #1f2937;
+  font-size: 36px;
+}
+
+.para-four {
+  margin-right: 20px;
+  display: flex;
+  justify-content: flex-end;
 }
