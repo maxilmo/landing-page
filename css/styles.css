@@ -117,6 +117,8 @@ h1 {
 .img-d {
   display: flex;
   flex-direction: row;
+  justify-content: center;
+  gap: 20px;
 }
 
 .img-one {
