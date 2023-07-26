@@ -87,8 +87,16 @@ h1 {
 }
 
 .btn-one {
+  width: 75px;
+  height: 30px;
   background-color: #3882f6;
   color: #f9faf8;
+  border: none;
+}
+
+.btn-one:hover {
+  cursor: pointer;
+  background-color: #00468b;
 }
 
 .sec-two {
@@ -147,4 +155,59 @@ h1 {
   margin-right: 20px;
   display: flex;
   justify-content: flex-end;
+}
+
+.sec-four {
+  padding: 16px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.call {
+  background-color: #3882f6;
+  border-radius: 25px;
+  width: 600px;
+  height: 100px;
+  border: 3px solid #8ebf42;
+  margin: 16px;
+  display: flex;
+  justify-content: center;
+  flex-wrap: nowrap;
+  gap: 5px;
+}
+
+.head-para {
+  height: 75px;
+}
+
+.btn-two {
+  width: 75px;
+  height: 75px;
+  margin-left: 25px;
+  margin-right: 16px;
+  margin-top: 20px;
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+}
+
+.head-three {
+  color: #f9faf8;
+}
+
+.para-five {
+  color: #f9faf8;
+}
+
+.btn-three {
+  color: #f9faf8;
+  background-color: #3882f6;
+  border-radius: 3px;
+  border: 2px solid #f9faf8;
+}
+
+.btn-three:hover {
+  cursor: pointer;
+  background-color: #00468b;
 }
